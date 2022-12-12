@@ -1,4 +1,5 @@
 import React from 'react';
+import Activities from './components/Activities';
 import Hero from './components/Hero';
 
 import NavBar from './components/NavBar';
@@ -10,6 +11,7 @@ function App() {
       <TopBar />
       <NavBar />
       <Hero />
+      <Activities />
     </div>
   );
 }

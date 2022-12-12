@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="w-full h-[90vh]">
       <img
         src="https://images.unsplash.com/photo-1494477920939-88c59ba76428?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1633&q=80"
-        alt=""
+        alt="Beach"
         className="w-full h-full object-cover"
       />
       <div className="max-w-[1140px] m-auto">
